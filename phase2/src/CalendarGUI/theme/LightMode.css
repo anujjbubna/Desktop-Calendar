@@ -1,0 +1,22 @@
+.root {
+    -fx-background-color: #e8e8e8;
+}
+
+.label {
+    -fx-text-fill: #000000;
+    -fx-background-color: white; /*remove this for all grey feel */
+}
+
+HBox, VBox {
+    -fx-background-color: #e8e8e8;
+}
+
+.radio-button {
+    -fx-text-fill: black;
+    -fx-border-color: #e8e8e8;
+}
+
+.scroll-pane {
+    -fx-background: white; /*change this to #e8e8e8 for all grey feel */
+}
+
